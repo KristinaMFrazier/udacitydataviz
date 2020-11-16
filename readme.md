@@ -1,5 +1,5 @@
 # Exploration of Etsy Listing Data for Artificial Crepe Paper Flower Products
-## by Kristina
+## by Kristina Frazier
 
 
 ## Dataset
